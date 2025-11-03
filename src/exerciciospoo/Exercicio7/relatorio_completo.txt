@@ -1,0 +1,11 @@
+=== RELATÓRIO COMPLETO ===
+
+PROFESSORES:
+• Liliano - Ingles - Salario:  20000,00
+
+ALUNOS:
+• liliano - Informatica - Media: 11.0
+
+=== ESTATÍSTICAS ===
+Total de professores: 1
+Total de alunos: 1
